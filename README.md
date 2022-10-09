@@ -13,5 +13,5 @@ do you have monero ? monero address is here
 
 donate through bitcoin? bitcoin address is here, copy and pay!
 ```
-Not accepting until notice
+bc1qhukytttxczq2r4mu03lpsf7kjasrntsscwk76s
 ```
